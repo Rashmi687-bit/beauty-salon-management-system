@@ -1,2 +1,10 @@
 # beauty-salon-management-system
-A Java-based web application for managing beauty salon services, appointments, users, and customer inquiries.
+Beauty Salon Management System is a full-stack web-based application developed to modernize and simplify the daily operations of a beauty salon. The main objective of this project is to provide an efficient, user-friendly, and automated platform for managing salon services, appointments, customer interactions, and administrative tasks. Traditional manual booking and record-keeping methods can be time-consuming and error-prone, therefore this system was designed to improve accuracy, save time, and enhance customer satisfaction.
+
+The system allows customers to create accounts, log into the platform, browse available beauty services, view service details and pricing, book appointments online, and send inquiries directly to the salon. Customers can easily manage their bookings and interact with the salon through a secure and responsive web interface.
+
+On the administrative side, the system provides a centralized dashboard where administrators can manage customer records, appointments, beauty services, products, inquiries, and other salon-related activities. Admin users can add, update, or remove services, monitor appointment schedules, handle customer requests, and maintain overall system functionality efficiently.
+
+The project was developed using Java technologies including JSP and Servlets for backend development, while HTML, CSS, and JavaScript were used to design an interactive and responsive user interface. MySQL was used as the database management system to securely store customer information, appointment details, and salon data. Apache Tomcat server was used for deployment and execution of the web application.
+
+This project demonstrates the practical implementation of web technologies, database connectivity, user authentication, CRUD operations, and responsive web design principles. The Beauty Salon Management System aims to improve business productivity, reduce manual workload, and provide a convenient digital solution for both salon administrators and customers.
