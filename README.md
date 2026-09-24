@@ -99,3 +99,102 @@ online appointments, customer management, services and administrative tasks.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
+---
+
+## 📸 Application Screenshots
+
+<p>
+A preview of the main interfaces of the Beauty Salon Management System.
+</p>
+
+### 🏠 Customer Dashboard
+<p align="center">
+  <img src="screenshots/customer-dashboard.png" width="900" alt="Customer Dashboard" />
+</p>
+<br>
+
+### 📅 Appointment Booking
+
+<p align="center">
+  <img src="screenshots/book-appointment.png" width="900" alt="Appointment Booking" />
+</p>
+<br>
+
+### 👤 Customer Profile
+
+<p align="center">
+  <img src="screenshots/customer-profile.png" width="900" alt="Customer Profile" />
+</p>
+<br>
+
+### 🛡️ Admin — Customer Inquiry Management
+
+<p align="center">
+  <img src="screenshots/admin-inquiries.png" width="900" alt="Admin Customer Inquiry Management" />
+</p>
+---
+
+## ⚙️ Installation & Setup
+
+### 📋 Prerequisites
+
+Before running the project, make sure you have:
+
+- ☕ Java JDK
+- 🌐 Apache Tomcat
+- 🗄️ MySQL Server
+- 💻 Java IDE (IntelliJ IDEA, Eclipse, or NetBeans)
+- 🔧 Git
+
+---
+
+## 📚 What I Learned
+
+Through this project, I gained practical experience in:
+
+- ☕ Java web application development
+- 🌐 JSP and Java Servlets
+- 🗄️ MySQL database integration
+- 🔄 CRUD operations
+- 🔐 User authentication and role-based functionality
+- 📅 Appointment management systems
+- 👤 Customer and administrator interfaces
+- 🎨 Responsive web interface development
+- 🐛 Debugging and problem solving
+- 🔧 Git and GitHub version control
+
+---
+
+<div align="center">
+
+## 👩‍💻 Author
+
+<h3>Rashmi Janesha</h3>
+
+<p>
+🎓 Undergraduate Computing Student<br>
+🔐 Interested in Information Technology & Cybersecurity<br>
+💻 Building and learning through practical projects
+</p>
+
+<a href="https://github.com/Rashmi687-bit">
+  <img src="https://img.shields.io/badge/GitHub-Rashmi687--bit-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### ⭐ Support This Project
+
+<p>
+If you found this project interesting, consider giving the repository a ⭐.
+</p>
+
+<br>
+
+<b>💻 Learn • 🛠️ Build • 🔐 Secure • 🚀 Grow</b>
+
+<br><br>
+
+<i>Thank you for visiting my project! 💙</i>
+
+</div>
