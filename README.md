@@ -1,10 +1,101 @@
-# beauty-salon-management-system
-Beauty Salon Management System is a full-stack web-based application developed to modernize and simplify the daily operations of a beauty salon. The main objective of this project is to provide an efficient, user-friendly, and automated platform for managing salon services, appointments, customer interactions, and administrative tasks. Traditional manual booking and record-keeping methods can be time-consuming and error-prone, therefore this system was designed to improve accuracy, save time, and enhance customer satisfaction.
+<div align="center">
 
-The system allows customers to create accounts, log into the platform, browse available beauty services, view service details and pricing, book appointments online, and send inquiries directly to the salon. Customers can easily manage their bookings and interact with the salon through a secure and responsive web interface.
+<h1>💇‍♀️ Beauty Salon Management System</h1>
 
-On the administrative side, the system provides a centralized dashboard where administrators can manage customer records, appointments, beauty services, products, inquiries, and other salon-related activities. Admin users can add, update, or remove services, monitor appointment schedules, handle customer requests, and maintain overall system functionality efficiently.
+<h3>✨ A Full-Stack Web Application for Modern Salon Management ✨</h3>
 
-The project was developed using Java technologies including JSP and Servlets for backend development, while HTML, CSS, and JavaScript were used to design an interactive and responsive user interface. MySQL was used as the database management system to securely store customer information, appointment details, and salon data. Apache Tomcat server was used for deployment and execution of the web application.
+<p>
+A user-friendly web-based system designed to simplify salon operations,
+online appointments, customer management, services and administrative tasks.
+</p>
 
-This project demonstrates the practical implementation of web technologies, database connectivity, user authentication, CRUD operations, and responsive web design principles. The Beauty Salon Management System aims to improve business productivity, reduce manual workload, and provide a convenient digital solution for both salon administrators and customers.
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Servlets-5382A1?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Type-University_Project-blue?style=flat-square" />
+
+</div>
+
+<br>
+
+---
+
+## 📖 About the Project
+
+---
+
+## ✨ Key Features
+
+### 👤 Customer Features
+
+- 🔐 Create an account and log in to the system
+- 💇 Browse available beauty salon services
+- 💰 View service details and pricing
+- 📅 Book salon appointments online
+- 🗓️ Manage appointment bookings
+- 💬 Send inquiries directly to the salon
+- 📱 Access the system through a responsive web interface
+
+### 🛡️ Administrator Features
+
+- 📊 Access a centralized administration dashboard
+- 👥 Manage customer records
+- 📅 Manage and monitor appointments
+- 💇 Add, update and remove salon services
+- 🛍️ Manage salon products
+- 💬 View and handle customer inquiries
+- 📝 Update salon-related information
+- ⚙️ Manage overall system operations
+
+  ---
+
+## 🛠️ Technology Stack
+
+<table>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>HTML5, CSS3, JavaScript, JSP</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>Java, Java Servlets</td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database</b></td>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web Server</b></td>
+    <td>Apache Tomcat</td>
+  </tr>
+  <tr>
+    <td><b>🔄 Version Control</b></td>
+    <td>Git & GitHub</td>
+  </tr>
+</table>
+
+### 🔧 Core Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlets-5382A1?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
